@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-ollama
+langchain-groq
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+ddgs
+wikipedia
